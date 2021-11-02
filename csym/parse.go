@@ -2,7 +2,7 @@
 package csym
 
 import (
-	"github.com/sanctuary/sym/csym/c"
+	"github.com/matt456/sym/csym/c"
 )
 
 // Parser tracks type information used for parsing.

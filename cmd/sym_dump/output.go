@@ -10,8 +10,8 @@ import (
 
 	"github.com/pkg/errors"
 	"github.com/rickypai/natsort"
-	"github.com/sanctuary/sym/csym"
-	"github.com/sanctuary/sym/csym/c"
+	"github.com/matt456/sym/csym"
+	"github.com/matt456/sym/csym/c"
 )
 
 // --- [ Type definitions ] ----------------------------------------------------

@@ -1,4 +1,4 @@
-module github.com/sanctuary/sym
+module github.com/matt456/sym
 
 require (
 	github.com/lunixbochs/struc v0.0.0-20180408203800-02e4c2afbb2a

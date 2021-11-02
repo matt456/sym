@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/sanctuary/sym"
+	"github.com/matt456/sym"
 )
 
 func TestParseFile(t *testing.T) {
